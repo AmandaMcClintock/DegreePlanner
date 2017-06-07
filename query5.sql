@@ -1,0 +1,2 @@
+SELECT (count(cNO)-2)/4 from required where dname = "BS in Applied Mathematics";
+/*Replace 2 with the number of classes taken and dname. If number is greater than number of semester's left, they cannot graduate in time*/
